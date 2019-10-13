@@ -1,0 +1,164 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+				"signatur": "925",
+				"altsignatur": "14/4302 a",
+				"titel": "Rheinkamp, Forststr. 116, Meerbeck",
+				"sachbegriffe": [ "Einfamilienhaus" ],
+				"personen": [ "Heering, Robert und Luise" ],
+				"enthaelt": [ 
+					"Totalschaden durch Bomben am 23.8.1944",
+					"6 Lastenausgleich"
+				],
+				"klassifikation": "3.2. Straßen D-F",
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Oberwallstraße 7" ],
+                "location": "Oberwallstraße 7, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:Bombenschaden_Oberwallstra%C3%9Fe_7_(1944).jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bombenschaden_Oberwallstra%C3%9Fe_7_%281944%29.jpg/567px-Bombenschaden_Oberwallstra%C3%9Fe_7_%281944%29.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.627212762832642, 51.452736629253415]
+            },
+            "id": "60-925"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_01.jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/b/b8/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_01.jpg"
+			},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-940"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_02.jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/3/35/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_02.jpg"
+			},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-941"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_03.jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_03.jpg/1200px-60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_03.jpg"
+			},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-942"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_04.jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_04.jpg/1200px-60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_04.jpg"
+			},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-943"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_05.jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_05.jpg/639px-60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_05.jpg"
+			},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-944"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_06.jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_06.jpg/633px-60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_06.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-945"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_07.jpg",
+				"urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_07.jpg/636px-60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_07.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-946"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_08.jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_08.jpg/636px-60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_08.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-947"
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "license": "CC BY 3.0",
+                "description": [ "Bombenschaden", "Vinner Straße 29" ],
+                "location": "Vinner Straße 29, Moers",
+                "urlDataset": "https://commons.wikimedia.org/wiki/File:60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_(1942)_09.jpg",
+                "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_09.jpg/1200px-60-940_Bombenschaden_Vinner_Stra%C3%9Fe_29_%281942%29_09.jpg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.63627295697691,51.4401815]
+            },
+            "id": "60-948"
+        }
+    ]
+}
